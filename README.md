@@ -44,8 +44,7 @@ named `output/` with the result of the data collection.
 
 ## Dataset formats
 
-The [Automated Systematic Review](https://github.com/msdslab/automated-
-systematic-review) software accepts several file formats like RIS and CSV. The
+The [Automated Systematic Review](https://github.com/msdslab/automated-systematic-review) software accepts several file formats like RIS and CSV. The
 datasets in this project are stored in one of these formats.
 
 ### RIS files
